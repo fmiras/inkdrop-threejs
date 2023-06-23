@@ -1,0 +1,22 @@
+{
+  "name": "inkdrop-threejs",
+  "main": "./lib/index",
+  "version": "0.1.0",
+  "description": "Render Three.js scene in Inkdrop",
+  "keywords": [
+    "threejs",
+    "3d",
+    "algebra",
+    "geometry",
+    "math",
+    "webgl",
+    "gl",
+    "graphics"
+  ],
+  "repository": "https://github.com/fmiras/inkdrop-threejs",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}

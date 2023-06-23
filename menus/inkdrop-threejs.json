@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-threejs",
+        "command": "inkdrop-threejs:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-threejs",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-threejs:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
